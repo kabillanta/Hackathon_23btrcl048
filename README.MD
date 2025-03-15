@@ -16,8 +16,8 @@ This is an **agentic voice-controlled AI assistant** developed for **PyHackathon
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/voice-ai-assistant.git
-cd voice-ai-assistant
+git clone https://github.com/kabillanta/Hackathon_23btrcl048.git
+cd Hackathon_23btrcl048
 ```
 
 ### **2️⃣ Create a Virtual Environment**
